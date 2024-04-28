@@ -1,1 +1,1 @@
-Hell, I am George.
+Hello, I am George.
